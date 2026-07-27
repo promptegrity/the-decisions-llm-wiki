@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Local tooling
+.cache/
+tmp/
+*.log
