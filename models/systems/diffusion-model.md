@@ -88,6 +88,7 @@ Plot current customers on the adopter curve. If 90% of fans are innovators and y
 
 - Family: [Read Systems](/models/systems/index.md)
 - Catalog: [Decision jobs](/index.md)
+- Path: [Go-to-market / where to play](/models/paths/go-to-market-where-to-play.md) — diffusion → long tail → niche
 - Related: [Long Tail Model](/models/systems/long-tail-model.md) — niches vs concentrated hits
 - Related: [Bourdieu and Sinus-Milieus](/models/relate/bourdieu-sinus-milieus.md) — milieus that adopt at different speeds
 - Related: [Pareto Principle](/models/prioritize/pareto-principle.md) — concentration of influence among opinion leaders

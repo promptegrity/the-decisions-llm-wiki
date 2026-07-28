@@ -86,6 +86,7 @@ List your top 10 sellers and then the next 100. If the next 100 are invisible in
 
 - Family: [Read Systems](/models/systems/index.md)
 - Catalog: [Decision jobs](/index.md)
+- Path: [Go-to-market / where to play](/models/paths/go-to-market-where-to-play.md) — diffusion → long tail → niche
 - Related: [Pareto Principle](/models/prioritize/pareto-principle.md) — head concentration; Long Tail values the rest
 - Related: [Diffusion Model](/models/systems/diffusion-model.md) — how hits and niches spread across adopters
 - Related: [Bourdieu and Sinus-Milieus](/models/relate/bourdieu-sinus-milieus.md) — taste clusters that populate niches

@@ -6,6 +6,8 @@
 
 Return to the [Decision jobs](/index.md) map or the [models hub](/models/index.md).
 
+**Locate:** market position multi-step → [Go-to-market / where to play](/models/paths/go-to-market-where-to-play.md). Single entry → [routing](/models/routing.md).
+
 ## Models
 
 * [Diffusion Model](diffusion-model.md) - Why everyone ends up with the same hit product — how innovations spread through adopter groups over time.

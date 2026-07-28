@@ -70,7 +70,7 @@ Write pulls and holds on separate sticky notes. Physically discard weak holds (�
 
 - Family: [Choose & Commit](/models/choose/index.md)
 - Catalog: [Decision jobs](/index.md)
-- Related: [Gift Dilemma](/models/relate/gift-dilemma.md) — another dilemma framing in this family
+- Related: [Gift Dilemma](/models/relate/gift-dilemma.md) — another dilemma framing in **relate** (gift / symbolic mismatch)
 - Related: [Consequences Model](/models/choose/consequences-model.md) — map outcomes once tensions are named
 - Related: [SWOT Analysis](/models/prioritize/swot-analysis.md) — stress-test each pole as a solution
 - Related: [Yes/No Rule](/models/choose/yes-no-rule.md) — decide once the dilemma is clarified

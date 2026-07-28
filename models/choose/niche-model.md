@@ -76,6 +76,7 @@ Write one sentence: “I bet on **X** for **Y**, because **Z**.” If you cannot
 
 - Family: [Choose & Commit](/models/choose/index.md)
 - Catalog: [Decision jobs](/index.md)
+- Paths: [Blank page / need options](/models/paths/blank-page-need-options.md), [Go-to-market / where to play](/models/paths/go-to-market-where-to-play.md)
 - Related: [SMART Model](/models/prioritize/smart-model.md) — turn the niche bet into a checkable goal
 - Related: [BCG Matrix](/models/prioritize/bcg-matrix.md) — cost vs benefit once options are on the table
 - Related: [SWOT Analysis](/models/prioritize/swot-analysis.md) — strengths and openings that reveal niches

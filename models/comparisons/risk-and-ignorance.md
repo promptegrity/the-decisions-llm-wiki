@@ -31,4 +31,5 @@ Not all “we don’t know” is the same. Separate **mapped ignorance**, **rare
 # Relations
 
 - Family hub: [Face Uncertainty](/models/uncertainty/index.md)
+- Path: [Act under ignorance](/models/paths/act-under-ignorance.md) — multi-step locate for new domains and opaque risk
 - Related comparison: [Prioritization lenses](prioritization-lenses.md) — scarce resources under risk

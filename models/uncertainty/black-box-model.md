@@ -85,6 +85,7 @@ For any critical dependency, write one sentence: “We do not understand X; we r
 
 - Family: [Face Uncertainty](/models/uncertainty/index.md)
 - Catalog: [Decision jobs](/index.md)
+- Path: [Act under ignorance](/models/paths/act-under-ignorance.md) — inventory knowledge then lock action rules
 - Related: [Rumsfeld Matrix](/models/uncertainty/rumsfeld-matrix.md) — black boxes often hide unknown knowns and unknowns
 - Related: [Black Swan Theory](/models/uncertainty/black-swan-theory.md) — opaque systems can hide fat-tailed risks
 - Related: [Swiss Cheese Model](/models/uncertainty/swiss-cheese-model.md) — opening layers vs accepting sealed boxes

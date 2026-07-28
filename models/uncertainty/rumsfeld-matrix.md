@@ -74,6 +74,7 @@ In a risk workshop, force the group to fill *known unknowns* first (honest gaps)
 
 - Family: [Face Uncertainty](/models/uncertainty/index.md)
 - Catalog: [Decision jobs](/index.md)
+- Path: [Act under ignorance](/models/paths/act-under-ignorance.md) — inventory knowledge then lock action rules
 - Related: [Swiss Cheese Model](/models/uncertainty/swiss-cheese-model.md) — layered failures when known defenses still leave holes
 - Related: [Black Swan Theory](/models/uncertainty/black-swan-theory.md) — extreme unknown unknowns that rewrite the map
 - Related: [Black Box Model](/models/uncertainty/black-box-model.md) — when we act without seeing inside the system

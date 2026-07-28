@@ -76,6 +76,7 @@ Write the current brief in one sentence, then rewrite it by removing one noun or
 
 - Family: [Create Options](/models/create/index.md)
 - Catalog: [Decision jobs](/index.md)
+- Path: [Blank page / need options](/models/paths/blank-page-need-options.md) — ordered create→choose sequence
 - Related: [Morphological Box and SCAMPER](/models/create/morphological-box-scamper.md) — structured tools once the frame is open
 - Related: [SWOT Analysis](/models/prioritize/swot-analysis.md) — test which surprising path is viable
 - Related: [Critique Model](/models/learn/critique-model.md) — hear pushback without collapsing back into the old box

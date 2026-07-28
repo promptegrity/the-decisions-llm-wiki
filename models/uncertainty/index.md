@@ -6,6 +6,8 @@
 
 Return to the [Decision jobs](/index.md) map or the [models hub](/models/index.md).
 
+**Locate:** new domain / act anyway multi-step → [Act under ignorance](/models/paths/act-under-ignorance.md). Single entry → [routing](/models/routing.md). Comparison: [Risk and ignorance](/models/comparisons/risk-and-ignorance.md).
+
 ## Models
 
 * [Black Box Model](black-box-model.md) - Why faith may replace knowledge — acting on systems whose inner workings stay opaque.

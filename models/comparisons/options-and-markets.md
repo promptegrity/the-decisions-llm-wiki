@@ -32,3 +32,4 @@ Sometimes you lack **ideas**; sometimes you misread **how ideas spread** or wher
 # Relations
 
 - Hubs: [Create](/models/create/index.md), [Systems](/models/systems/index.md), [Choose](/models/choose/index.md)
+- Paths: [Blank page / need options](/models/paths/blank-page-need-options.md), [Go-to-market / where to play](/models/paths/go-to-market-where-to-play.md)

@@ -8,7 +8,10 @@ Return to [Decision jobs](/index.md) or [models hub](/models/index.md). For a si
 
 * [Overwhelmed workload](overwhelmed-workload.md) — Everything is urgent; capacity is shot
 * [Cannot choose](cannot-choose.md) — Stuck between options or life paths
+* [Blank page / need options](blank-page-need-options.md) — Thin option set; invent before choosing
 * [Team stuck](team-stuck.md) — Group friction or plateau
 * [Do not understand the other](do-not-understand-other.md) — Relational opacity or conflict
 * [Career or role fit](career-role-fit.md) — Stay, redesign, or leave a role
 * [Learn from failure](learn-from-failure.md) — Miss, review, or repeated mistake
+* [Act under ignorance](act-under-ignorance.md) — New domain or opaque risk; act with rules
+* [Go-to-market / where to play](go-to-market-where-to-play.md) — Diffusion, long tail, niche bet

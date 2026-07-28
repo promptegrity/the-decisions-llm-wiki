@@ -35,4 +35,6 @@ You can state the other’s likely interests or constraints without mind-reading
 
 # Relations
 
-- Comparison: [Risk and ignorance](/models/comparisons/risk-and-ignorance.md) when opacity dominates
+- Routing: [Routing table](/models/routing.md)
+- When opacity of a *system* dominates (not only a person): [Risk and ignorance](/models/comparisons/risk-and-ignorance.md) and path [Act under ignorance](/models/paths/act-under-ignorance.md)
+- When the stuck point is pure choice after the other is clearer: [Cannot choose](/models/paths/cannot-choose.md)

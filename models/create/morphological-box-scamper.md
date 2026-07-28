@@ -82,6 +82,7 @@ Run Morphological Box for *breadth*, then SCAMPER on the best 2–3 combinations
 
 - Family: [Create Options](/models/create/index.md)
 - Catalog: [Decision jobs](/index.md)
+- Path: [Blank page / need options](/models/paths/blank-page-need-options.md) — ordered create→choose sequence
 - Related: [Thinking Outside the Box](/models/create/thinking-outside-the-box.md) — challenge the frame; these tools fill the frame with options
 - Related: [SWOT Analysis](/models/prioritize/swot-analysis.md) — evaluate promising combinations afterward
 - Related: [Niche Model](/models/choose/niche-model.md) — pick which creative direction to bet on
